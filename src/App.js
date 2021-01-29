@@ -96,7 +96,7 @@ function App() {
               </div>
             </div>
           </div>     
-          <div id= "open-source"> <a href="https://github.com/Reshvinder/my-weather-app" target="_blank"> <small>Open-source code</small></a> <small> by Reshvinder Bhullar </small> </div>
+          <div id= "open-source"> <a href="https://github.com/Reshvinder/my-weather-app" rel="noreferrer" target="_blank"> <small>Open-source code</small></a> <small> by Reshvinder Bhullar </small> </div>
               </div> 
        
       </div>
